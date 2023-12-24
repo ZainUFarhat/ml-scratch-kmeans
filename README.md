@@ -2,14 +2,14 @@
 K Means Clustering Algorithm
 
 ## **Description**
-The following is my from scratch implementation of the K Means Clustering algorithm.
+The following is my from scratch implementation of the Unsupervised K Means Clustering algorithm.
 
 ### **Dataset**
 
 I tested the performance of my model on two datasets: \
 \
     &emsp;1. Sklearn Blobs Dataset \
-    &emsp;2. Iris Dataset \
+    &emsp;2. Iris Dataset 
 
 ### **Walkthrough**
 
